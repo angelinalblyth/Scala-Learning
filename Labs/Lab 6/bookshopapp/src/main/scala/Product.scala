@@ -10,6 +10,6 @@ class Product (val name: String, val price: Price) {
     price - (price * salesPercentage)
   }
 
-  override def toString: String = s"Product($name, $price)"
+  override def toString: String = s"$name, $price"
 
 }
