@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b986bd9b-d828-461a-8f69-014f75069926" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Address.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Author.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Book.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Publisher.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab 4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab 4/.idea/Lab 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab 4/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab 4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab 4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab 4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab 4/bookshopapp/.idea/modules/bookshop-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab 4/bookshopapp/.idea/modules/hello-world-build.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Lab1/helloworld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/helloworld/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Main.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +30,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Scala Class" />
       </list>
     </option>
   </component>
@@ -170,21 +171,21 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583161372714" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1583163478379">
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1583166486235">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1583163478379" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1583163478377">
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1583166486235" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1583166486233">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1583163478377" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1583163478377">
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1583166486233" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1583166486232">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1583163478377" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1583163478378">
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1583166486232" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1583166486234">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1583163478378" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1583166486234" />
   </component>
 </project>
