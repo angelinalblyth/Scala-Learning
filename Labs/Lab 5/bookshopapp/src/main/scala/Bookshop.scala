@@ -1,3 +1,5 @@
+import bookshop.Technical
+
 object Bookshop {
 
   private val shopName = "My Book Store"
@@ -10,9 +12,10 @@ object Bookshop {
 
   private def getBook(): Book = {
 
-    val author = new Author("Pete Smith")
-    val address = new Address(10, "High Street", "Salisbury", "Wiltshire", "SL10 34D")
-    val publisher = new Publisher("Tech Books Publishing Ltd.", address)
-    new Book("Scala Unleashed", 15.95, author, publisher)
+    val author = Author("Pete Smith")
+    val address = Address(10, "High Street", "Salisbury", "Wiltshire", "SL10 34D")
+    val publisher = Publisher("Tech Books Publishing Ltd.", address)
+    val book = new Book("Scala Unleashed", Price(15.95), author, publisher, Technical)
+    book
   }
 }

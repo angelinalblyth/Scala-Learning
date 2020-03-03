@@ -1,3 +1,2 @@
-class Publisher(val name: String,val address: Address) {
-  override def toString: String = s"${name}, ${address}"
+case class Publisher(name: String, address: Address) {
 }

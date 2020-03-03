@@ -1,5 +1,4 @@
-
-class Book(val title: String, val price: Double, val author: Author, val publisher: Publisher) {
+class Book(val title: String, val price: Price, val author: Author, val publisher: Publisher, val genre: AnyRef) {
 
   private var salesPercentage = 0.0
 
@@ -7,9 +6,9 @@ class Book(val title: String, val price: Double, val author: Author, val publish
   this.salesPercentage = salesPercentage / 100
   }
 
-  def calculateSalePrice(): Double ={
+  def calculateSalePrice(): Price ={
     price - (price * salesPercentage)
   }
 
-  override def toString: String = s"Book($title, $price, $author, $publisher)"
+  override def toString: String = s"Book($title, $price, $author, $publisher, Genre: $genre)"
 }
