@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bowlinggame.iml" filepath="$PROJECT_DIR$/.idea/modules/bowlinggame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BowlingGame.iml" filepath="$PROJECT_DIR$/.idea/modules/BowlingGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BowlingGame-build.iml" filepath="$PROJECT_DIR$/.idea/modules/BowlingGame-build.iml" />
     </modules>
   </component>
 </project>

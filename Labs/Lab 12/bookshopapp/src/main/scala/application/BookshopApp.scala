@@ -19,7 +19,7 @@ object BookshopApp extends App {
   val prettyPrint = books.map(prettyBook)
 
   val bookFilter = books.filter(book => book.price.value < 15.00)
-  
+
   println(bookFilter)
 
 }

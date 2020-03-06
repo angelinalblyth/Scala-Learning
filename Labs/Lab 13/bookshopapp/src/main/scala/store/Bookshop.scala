@@ -34,8 +34,6 @@ object Bookshop {
     val book3 = new Book("The Wars of the Roses Retold", Price(12.34), author3, publisher2, History)
     val book4 = new Book("It was a Dark Night", Price(23.55), author4, publisher3, Fiction)
 
-
-
     val books: Map[Genre, List[Book]] = Map(
       Technical -> List(book1, book2),
       History -> List(book3),

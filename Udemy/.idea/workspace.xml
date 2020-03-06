@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f1cf5b4-cb25-4ae4-a948-627b13ea6b8c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Labs/Lab 12/bookshopapp/src/main/scala/application/BookshopApp.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Lab 12/bookshopapp/src/main/scala/application/BookshopApp.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Yeluvx2LGf6sQdelU5PwqLoCiv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.ValuesVariablesTypes">
+    <configuration name="JavaPlayground" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.JavaPlayground" />
+      <module name="Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScalaPlayground" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="playground.ScalaPlayground" />
+      <module name="Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValuesVariablesTypes" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.ValuesVariablesTypes" />
+      <module name="Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ValuesVariablesTypes" />
+        <item itemvalue="Application.ScalaPlayground" />
+        <item itemvalue="Application.JavaPlayground" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Labs/Lab1/helloworld" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Labs/lab2/bookshopapp" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f1cf5b4-cb25-4ae4-a948-627b13ea6b8c" name="Default Changelist" comment="" />
+      <created>1583311166069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583311166069</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="190" key="#Project_Structure" timestamp="1583311215801">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1583311215801" />
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583311437312">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583311437312" />
+    <state x="584" y="446" width="511" height="159" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1583406774657">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="584" y="446" width="511" height="159" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583406774657" />
+    <state x="690" y="421" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583406757701">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="690" y="421" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583406757701" />
+    <state width="1638" height="325" key="GridCell.Tab.0.bottom" timestamp="1583409290603">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="325" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1583409290603" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.23.1680.987@0.23.1680.987" timestamp="1583340234051" />
+    <state width="1638" height="325" key="GridCell.Tab.0.center" timestamp="1583409290602">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="325" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1583409290602" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.23.1680.987@0.23.1680.987" timestamp="1583340234050" />
+    <state width="1638" height="325" key="GridCell.Tab.0.left" timestamp="1583409290601">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="325" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1583409290601" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.23.1680.987@0.23.1680.987" timestamp="1583340234049" />
+    <state width="1638" height="325" key="GridCell.Tab.0.right" timestamp="1583409290602">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="325" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1583409290602" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.23.1680.987@0.23.1680.987" timestamp="1583340234050" />
+  </component>
+</project>
